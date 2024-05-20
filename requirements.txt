@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+opencv-python
+paho-mqtt
+requests
+awsiotsdk
+keyboard
+pyserial
+ipykernel
