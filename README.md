@@ -7,7 +7,7 @@ Merhaba,
 
 Empa Electronics tarafından düzenlenen üniversite workshopları serimizin ilkine, Yıldız Teknik Üniversitesi Workshop'a hoşgeldiniz. 
 
-Bu kurulum klavuzu, workshop etkinliğimizin AI seansı için sizleri bilgilendirmek ve aktivitelerimizi adım adım, eş zamanlı uygulayabilmek için gerekli kurulumlara yönlendirmek amacıyla hazırlandı.
+Bu kurulum kılavuzu, workshop etkinliğimizin AI seansı için sizleri bilgilendirmek ve aktivitelerimizi adım adım, eş zamanlı uygulayabilmek için gerekli kurulumlara yönlendirmek amacıyla hazırlandı.
 
 Bu dökümanı kullanarak:
 
