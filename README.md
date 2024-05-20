@@ -49,7 +49,7 @@ Etkinliğimizde kullanılacak Python sanal ortamını eksiksiz şekilde edinmek 
 
 1- Kod deposunu kendi lokal geiştirme makinenize indiriniz (_clone repository_):
 ```
-git clone https://github.com/denizcelikai/AI_Workshops_YTU.git
+git clone https://github.com/Empa-Teknoloji/AI_Workshops_YTU.git
 ```
 2- Sanal ortam için gerekli aracı kurunuz:
 ```

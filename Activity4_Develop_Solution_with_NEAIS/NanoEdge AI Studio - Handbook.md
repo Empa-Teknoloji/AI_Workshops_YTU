@@ -74,7 +74,7 @@ NanoEdge AI Studio is mainly made for **sensor** applications, and sensor applic
 
 ## 2.1. **Data Logger (DL)**
 
-- Outputs a **ready-to-use** .bin file with **selected configuration** to get data from USB port.
+- Outputs a **ready-to-use** .bin file with **selected configuration** to collect data from USB port.
     - From compatible **boards**,
     - The list of **sensors** available,
     - The list of **parameters** (sample size per axis, range, data range, number of axis) specific to the selected sensor.
@@ -89,7 +89,7 @@ NanoEdge AI Studio is mainly made for **sensor** applications, and sensor applic
 - Outputs data file(s) after applying the selected actions on the given dataset(s).
     - **Extract** lines,
     - **Remove** columns,
-    - Change columns numbers (i.e. **sampling**),
+    - Change columns numbers (i.e. **sampling size**),
     - **Shuffle** rows.
 
 ![Untitled](../additionals/NEAIS-2.Preprocesses/Untitled3.png)
