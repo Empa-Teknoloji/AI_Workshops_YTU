@@ -72,7 +72,7 @@ source WORKSHOP_ENV/bin/activate
 4- Kod deposu klasörü içine giderek gerekli paketlerin kurulumunu yapınız:
 
 ```
-cd Workshop_YTU
+cd AI_Workshops_YTU
 pip3 install -r requirements.txt
 ```
 _Buraya kadar geldiğinizde her şey düzgün görünüyor ise katılım için hazırsınız._ :blush:
