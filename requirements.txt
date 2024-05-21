@@ -10,3 +10,4 @@ keyboard
 pyserial
 ipykernel
 tf2onnx
+onnxruntime
